@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+plotly
+numpy
+scipy
+datetime
+statsmodels
+fredapi
+warnings
