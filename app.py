@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore")
 
 # FRED API 키 설정 (실제 사용 시 본인의 API 키로 대체해야 합니다)
 
-fred = Fred(api_key=st.secrets["8c945b914a00faf01f18cdc2e1368861"])
+fred = Fred(api_key=st.secrets["fred_api_key"])
 
 
 # 페이지 설정
